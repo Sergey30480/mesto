@@ -1,0 +1,22 @@
+.profile__button-rectangle {
+  width: 24px;
+  height: 24px;
+  grid-area: button;
+  margin-top: 38px;
+  padding: 0;
+  background-color: transparent;
+  border: 1px solid #FFFFFF;
+  display: grid;
+  place-content: center;
+  cursor: pointer;
+}
+.profile__button-rectangle:hover {
+  opacity: 0.6;
+}
+@media screen  and (max-width: 768px) {
+  .profile__button-rectangle {
+    width: 19px;
+    height: 19px;
+    margin-top: 9px;
+  }
+}

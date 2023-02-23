@@ -1,0 +1,10 @@
+.profile__edit-pencil {
+  width: 11px;
+  height: 11px;
+}
+@media screen  and (max-width: 768px) {
+  .profile__edit-pencil {
+    width: 8px;
+    height: 8px;
+  }
+}
