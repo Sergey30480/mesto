@@ -14,7 +14,7 @@
 - [BEM Nested](https://ru.bem.info/methodology/filestructure/)
 
 ** Проект на GitHub Pages:**
-* [gh-pages]()
+* [gh-pages](https://sergey30480.github.io/mesto/)
 
 **Автор**
 
